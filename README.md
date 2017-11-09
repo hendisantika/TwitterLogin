@@ -8,4 +8,12 @@ java -jar twitterlogin-1.0..jar
 
 Alternatively, you can run it within Eclipse by right-clicking on Application and selecting Run As... Java Application.
 
-Once the application is launched, you can access it at http://localhost:8090/twitterLogin
+Once the application is launched, you can access it at http://localhost:8080/twitterLogin
+
+![Sign In](img/signin.png)
+
+
+![Authorize](img/auth.png)
+
+
+![Sukse](img/sukses.png)
